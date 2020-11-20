@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+body {
+ background: #ddd;
+ text-align: center;
+ font-family: Balsamiq, sans-serif;
+}
+
+#tribute-info {
+ width: 600px;
+ margin: 20px auto;
+}
+
+#tribute-info li {
+ margin: 10px 0px;
+ text-align: justify;
+}
+
+#image {
+ max-width: 400px;
+ display: block;
+ margin: auto;
+ border-radius:20px;
+ box-shadow:0px 0px 10px 0px #ffffff;
+}
+
+@media(max-width: 650px) {
+ #image {
+  max-width: 90%;
+  margin: auto;
+ }
+
+ #tribute-info {
+  width: 90%;
+  margin: auto;
+ }
+}
