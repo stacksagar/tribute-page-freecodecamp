@@ -1,9 +1,5 @@
-This is a Allu Arjun Tribute page.
+## <a href="#"> FreeCodeCamp Assignment Simple Tribute Page </a>
+###### `Tribute Page` [See Live Preview](https://stacksagar.github.io/tribute-page-freecodecamp "project of @stacksagar")
 
-It makes up the first part of my coding portfolio.
-
-You can see this project live at the following URL:
-
-https://stacksagar.github.io/tribute-page-freecodecamp/
-
-Enjoy!
+### Connect With Me 👇
+[![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacksagar "@stacksagar linkedin profile") [![](https://img.shields.io/badge/%20-Twitter-blue?color=blue&labelColor=blue&logo=twitter&logoColor=white)](https://www.twitter.com/stacksagar "@stacksagar twitter profile") [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/stacksagar "@stacksagar facebook profile")
